@@ -1,4 +1,7 @@
-# api documentation for  [imagemin-gifsicle (v5.1.0)](https://github.com/imagemin/imagemin-gifsicle#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-imagemin-gifsicle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-imagemin-gifsicle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-imagemin-gifsicle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-imagemin-gifsicle)
+# npmdoc-imagemin-gifsicle
+
+#### api documentation for  [imagemin-gifsicle (v5.1.0)](https://github.com/imagemin/imagemin-gifsicle#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-imagemin-gifsicle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-imagemin-gifsicle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-imagemin-gifsicle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-imagemin-gifsicle)
+
 #### gifsicle imagemin plugin
 
 [![NPM](https://nodei.co/npm/imagemin-gifsicle.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/imagemin-gifsicle)
@@ -84,7 +87,8 @@
     "version": "5.1.0",
     "xo": {
         "esnext": true
-    }
+    },
+    "bin": {}
 }
 ```
 
